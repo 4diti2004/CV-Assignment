@@ -1,0 +1,3 @@
+Experiment,PSNR_dB,SSIM
+Gaussian noise → Gaussian filter,30.314,0.6703
+Salt-and-pepper noise → Median filter,33.126,0.8416

@@ -1,0 +1,1 @@
+Outputs generated from the two supplied portraits and sample video. Inspect the images visually. YOLO not executed; see YOLO_STATUS.txt and notebook optional cell. Replace sample video with your own 15–30 second recording for assignment compliance.

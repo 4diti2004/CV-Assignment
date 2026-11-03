@@ -1,0 +1,3 @@
+Experiment,Keypoints image A,Keypoints image B,Good SIFT matches
+Image A vs image B / fallback pair,587,1523,22
+Image B vs 75% resized image B,1523,781,577

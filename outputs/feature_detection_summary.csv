@@ -1,0 +1,10 @@
+Measure,Result
+SIFT keypoints - portrait 1,472
+SIFT keypoints - portrait 2,300
+Good SIFT matches between supplied portraits,17
+Good SIFT matches after 15-degree rotation,290
+Haar faces detected in portrait 1,1
+Haar faces detected in portrait 2,1
+Video FPS,25.0
+Video frame count,331
+Lucas-Kanade tracked points across sampled frames,1872

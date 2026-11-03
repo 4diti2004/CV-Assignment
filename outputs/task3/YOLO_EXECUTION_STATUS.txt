@@ -1,0 +1,4 @@
+YOLO CODE ADDED: src/yolo_detection.py and notebook Task 3B.
+YOLO INFERENCE NOT RUN IN THIS build environment: Ultralytics and yolov8n.pt were unavailable, and internet access prevented installation/download.
+To execute on Windows/Jupyter: pip install -r requirements.txt; then python src/yolo_detection.py.
+The first run downloads yolov8n.pt. Genuine detections are written to this folder and video-frame outputs.

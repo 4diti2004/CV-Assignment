@@ -1,0 +1,9 @@
+opencv-python>=4.8
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-image>=0.21
+jupyter>=1.0
+nbclient>=0.9
+# Optional YOLO:
+# ultralytics>=8.0

@@ -1,0 +1,1 @@
+YOLO execution was not run in this generated package because the Ultralytics package and YOLO model weights were not present in the execution environment. Run the optional YOLO cell in the notebook after installing ultralytics; it downloads yolov8n.pt automatically on first run. YOLO detections are not fabricated or represented as completed.
