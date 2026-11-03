@@ -6,14 +6,6 @@ Welcome to my Computer Vision project repository! This repository contains the i
 
 The project demonstrates image processing, image segmentation, feature extraction, object recognition, and motion estimation using Python and OpenCV.
 
-## 👩‍💻 Student Profile
-
-- **Name:** Deshpande Aditi
-- **PRN:** 12722505143
-- **Class:** S.Y MCA
-- **Division:** C
-- **Batch:** 2
-
 ## 🎯 Project Objectives
 
 - Understand fundamental Computer Vision concepts.
